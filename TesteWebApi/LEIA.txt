@@ -1,0 +1,1 @@
+Olá, execute o WebApi.sln, dentro da pasta WebApi, pois irá iniciar com os dois projeto e quando for rodar, rodará com os 2 projeto também.
